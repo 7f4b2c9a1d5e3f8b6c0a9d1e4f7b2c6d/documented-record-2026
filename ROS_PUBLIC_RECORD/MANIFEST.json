@@ -1,0 +1,59 @@
+﻿{
+    "title":  "ROS scripts public documentary record 2026",
+    "architect":  "Garth Murray",
+    "identity_seed_sha256_prefix":  "7f4b2c9a1d5e3f8b6c0a9d1e4f7b2c6d",
+    "created_utc":  "2026-08-18T18:25:25.2206920Z",
+    "purpose":  "Independently publicly verifiable record of Reality OS Python scripts as stored/derived 2026-08. Third parties may retrieve, hash-check, and examine.",
+    "not_a_vendor_statement":  true,
+    "source_devices":  [
+                           "Samsung SM-S938B R5CY21WDFED (S25 Ultra)",
+                           "Samsung SM-A166P R94Y30G7DSH (A16)"
+                       ],
+    "private_full_repo":  "https://github.com/7f4b2c9a1d5e3f8b6c0a9d1e4f7b2c6d/ros-scripts",
+    "related_public_archives":  [
+                                    "https://github.com/7f4b2c9a1d5e3f8b6c0a9d1e4f7b2c6d/documented-record-2026",
+                                    "https://github.com/7f4b2c9a1d5e3f8b6c0a9d1e4f7b2c6d/gnosis-android"
+                                ],
+    "redactions":  [
+                       "Bank BSB/account numbers replaced with [REDACTED_*]",
+                       "API token-shaped strings redacted if present"
+                   ],
+    "files":  [
+                  {
+                      "sha256":  "e6ebf42aad0cc5953775925dfd0241bec832819133355c3c6d30ac870eeb41c3",
+                      "path":  "provenance/PENTAD_HANDOFF_ANALYSIS.txt"
+                  },
+                  {
+                      "sha256":  "09cddd09bfc609663ceea8a6f1bcafa71b8e26525defef5cd5122e0a82b24058",
+                      "path":  "provenance/ROS_GIT_STATUS.md"
+                  },
+                  {
+                      "sha256":  "682c129315d3dea5791ccb87724a1fc7d8b537f407ef40b3298461c4bf728710",
+                      "path":  "scripts/ros_desktop.py"
+                  },
+                  {
+                      "sha256":  "084d8243dc3b14ae1cbd8cae19fe00cffa4a16ffb2d77a019a35eb36f73d4f91",
+                      "path":  "scripts/ros_pentad_bridge.py"
+                  },
+                  {
+                      "sha256":  "34962cfa2ffba232f4544b32b580f0595f8e69722a07e51f67c880a73f7f5402",
+                      "path":  "scripts/ros_quantum_active.py"
+                  },
+                  {
+                      "sha256":  "02ba7dada3e2f852dedac79036846d809d5512a9a1009296a53ce537b6494ae9",
+                      "path":  "scripts/ROS_v58_for_DeepSeek.py"
+                  },
+                  {
+                      "sha256":  "136cb5a0126f094b7ac02a7628260287475bef6deeecf7486d9c919c9a402422",
+                      "path":  "scripts/ros_v75.py"
+                  },
+                  {
+                      "sha256":  "36d922a610af084ac0947b8a3366070edf0abefb1aff1f4147b844313a67e13f",
+                      "path":  "scripts/ros_workshop.py"
+                  },
+                  {
+                      "sha256":  "55d544a3e824c87d53d7420a8172a1bc599cf724a8e7c7d3ed5ac3530331b796",
+                      "path":  "scripts/tetrad.py"
+                  }
+              ]
+}
