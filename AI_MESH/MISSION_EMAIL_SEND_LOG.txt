@@ -1,0 +1,69 @@
+2026-07-23T19:24:15.6857230+10:00 SENT #1 DEEPSEEK->Novotel id=19f8e4a0dac48c27
+2026-07-23T19:26:41+10:00 STATUS poll after seats 1-2
+  #1 DeepSeek Novotel id=19f8e4a0dac48c27 — no hotel reply yet
+  #2 NotebookLM Accor id=19f8e4afc63aefaf — no Accor reply yet
+  Prior-wave: Alison Byrnes MP auto-reply 19f8e3e5d4de58f0 (volume ack only)
+  NEXT: #3 Gemini -> Emma/hotel
+2026-07-23T19:27:06+10:00 SENT #3 GEMINI->Emma/hotel id=19f8e4c8907e7304
+  2026-07-23T19:25:06+10:00 SENT #2 NOTEBOOKLM->Accor id=19f8e4afc63aefaf (backfill)
+2026-07-23T19:27:31+10:00 REPLY Accor auto-ack #24862676 id=19f8e4bc90d41e0b (NotebookLM seat wave / Accor CR)
+2026-07-23T19:27:31+10:00 REPLY Accor earlier auto-ack #24862450 id=19f8e3ef81edf5cd (prior PC-Grok wave)
+2026-07-23T19:27:31+10:00 REPLY Accor Plus ticket 5368431 received (Member Care)
+2026-07-23T19:27:31+10:00 REPLY MP Alison Byrnes volume auto-ack only
+2026-07-23T19:27:37+10:00 SENT #4 PERPLEXITY->Media id=19f8e4d259a04f34
+2026-07-23T19:28:17+10:00 SENT #5 GROK->MP Byrnes id=19f8e4dbd5328462
+2026-07-23T19:28:17+10:00 PUSH status+drafts -> S25 USB/wireless + Tab AI_MESH
+2026-07-23T19:29:10+10:00 SENT #6 MESH->Health+LegalAid id=19f8e4e517a2a4e2
+2026-07-23T19:30:09+10:00 REPLY #5 MP Byrnes auto-ack id=19f8e4df191e3cc7 (volume only, not staff case)
+2026-07-23T19:30:09+10:00 ALL primary seats 1-6 SENT; extending wave #7 Qwen #8 Claude
+2026-07-23T19:30:13+10:00 SENT #7 QWEN->Hotel GM id=19f8e4f8c52f0048
+2026-07-23T19:31:00+10:00 SENT #8 CLAUDE->AccorPlus id=19f8e500dccb008d
+2026-07-23T19:31:52+10:00 SENT #9 DEEPSEEK->SalvationArmy id=19f8e50d516d4519
+2026-07-23T19:31:52+10:00 REPLY Accor Plus NEW ticket 5368751 (Claude seat) id=19f8e501b3b204b8
+2026-07-23T19:32:33+10:00 SENT #10 GEMINI->UOW Chaplaincy id=19f8e511cb00a1b5
+2026-07-23T19:32:33+10:00 WAVE COMPLETE seats 1-10. Human hotel answer still OPEN. Do not stop polling.
+2026-07-23T19:33:28+10:00 SENT #11 NOTEBOOKLM->Link2home id=19f8e526eecfebdc
+2026-07-23T19:33:28+10:00 SCHEDULER 30m poll+advance task_id=019f8e527960 durable
+2026-07-23T19:33:28+10:00 STATUS: 11 seat emails SENT; auto-acks only so far; human property answer OPEN; Don't Stop
+2026-07-23T19:34:03+10:00 REPLY Link2home auto from link2home@homes.nsw.gov.au id=19f8e52d362a0b4d — phone 1800 152 152 24/7; mailbox Mon-Fri 8-4 only; CALL for prompt
+2026-07-23T19:34:03+10:00 BOUNCE #10 chaplaincy@uow.edu.au invalid — need correct pastoral inbox; Wallace CC may still have copy
+2026-07-23T19:34:36+10:00 SENT #12 PERPLEXITY->Wollongong Council id=19f8e537f1ce3fe1
+2026-07-23T19:34:36+10:00 SENT #13 GEMINI->UOW Multifaith chaplains (Robc/Jonb/davidstu) id=19f8e537eb41e599 (fix for bounce)
+2026-07-23T19:34:36+10:00 CALL PATHS: hotel (02)4224 3111 · Link2home 1800 152 152 24/7
+2026-07-23T19:35:18+10:00 POLL+PUSH continue — seats 1-13 live; waiting human property answer
+2026-07-23T19:35:44+10:00 SENT #14 DEEPSEEK->Catholic Chaplain DOW id=19f8e5499ff968c8
+2026-07-23T19:36:11+10:00 SENT #15 GROK escalate->Hotel+Emma+Accor id=19f8e54fce79909a
+2026-07-23T19:36:11+10:00 COUNT seats 1-15. Human property answer still OPEN. Don't Stop.
+2026-07-23T19:37:09+10:00 SENT #16 NOTEBOOKLM->Vinnies id=19f8e55d34f22d13
+2026-07-23T19:37:09+10:00 PUSH ONE_SCREEN_CALL_NOW to S25+Tab
+2026-07-23T19:37:09+10:00 POLL: no new human hotel answer after #15 escalate yet
+2026-07-23T19:37:38+10:00 POLL cycle — seats 1-16 out; scanning for human property answer
+2026-07-23T19:37:58+10:00 KEY FIND: Accor HUMAN reply 21 Jul #24827050 from HERY — medical Room 1001 forwarded to property; 'will get back shortly'
+2026-07-23T19:37:58+10:00 ACTION: reply-escalate on thread 19f830c7d0d0a3b7 — property silent 2 days
+2026-07-23T19:38:12+10:00 SENT #17 GROK reply-escalate Accor HERY #24827050 id=19f8e56b589cd1aa thread=19f830c7d0d0a3b7
+2026-07-23T19:38:12+10:00 Wait for Accor/property response on human ticket thread
+2026-07-23T19:38:49+10:00 POLL after #17 Accor HERY escalate — waiting human CR/property
+2026-07-23T19:39:18+10:00 SENT #18 GROK->MP Byrnes cite Accor #24827050 property silent id=19f8e57ceffc60dd
+2026-07-23T19:39:18+10:00 #24827050 thread still awaiting HERY/property human reply after #17
+2026-07-23T19:39:40+10:00 REPLY #18 MP volume auto-ack id=19f8e580be5cce00 (not staff case yet)
+2026-07-23T19:39:54+10:00 POLL cycle seats 1-18 — Accor #24827050 still no property writeback
+2026-07-23T19:40:28+10:00 SENT #19 PERPLEXITY media UPDATE cite Accor #24827050 property silent id=19f8e58aa8f8509c
+2026-07-23T19:40:28+10:00 S25 DIALER opened tel:0242243111 — user presses Call; cite #24827050
+2026-07-23T19:40:58+10:00 POLL seats 1-19 — scanning human Accor/property/media
+2026-07-23T19:41:35+10:00 SENT #20 GROK AccorPlus #5307424 escalate cite CR #24827050 id=19f8e59eadf9efca
+2026-07-23T19:41:35+10:00 Link2home dialer delivered to S25 (1800152152); mission board pushed
+2026-07-23T19:41:57+10:00 REPLY Accor Plus NEW ticket **5369036** (seat #20 / #24827050 cite) id=19f8e59ff5e303f5 — Member Care reviewing
+2026-07-23T19:42:09+10:00 POLL after #20 / ticket 5369036 — waiting human Accor or property
+2026-07-23T19:43:01+10:00 SENT #21 GROK->Paul Scully MP Wollongong cite #24827050 id=19f8e5b3c47c8686
+2026-07-23T19:43:01+10:00 BATON+dialer refreshed S25/Tab
+2026-07-23T19:43:24+10:00 STATUS: 21 seats; Accor+ 5369036 live; #24827050 property still silent; Scully #21 out; dialer hotel open on S25
+2026-07-23T19:45:07+10:00 USER CORRECTION: emails assumed prior knowledge — FIXED. Cold-intro rule now mandatory.
+2026-07-23T19:45:07+10:00 SENT #22 COLD BRIEF Hotel+Emma+Accor — zero-knowledge structure
+2026-07-23T19:45:15+10:00 SENT #22 COLD BRIEF id=19f8e5d41662bfdb — hotel/Emma/Accor from zero knowledge
+2026-07-23T19:46:05+10:00 SENT #23 COLD Accor Plus id=19f8e5de9492f35a (zero-knowledge brief)
+2026-07-23T19:46:34+10:00 SENT #24 COLD MP Byrnes id=19f8e5e75d8cebda
+2026-07-23T19:46:34+10:00 REPLY Accor Plus ticket **5369104** (cold #23) id=19f8e5df8f1ec540
+2026-07-23T19:46:59+10:00 SENT #25 COLD Scully MP Wollongong id=19f8e5e9487f59d1
+2026-07-23T19:46:59+10:00 SENT #26 COLD Media Mercury+ABC (plain story tip) — pending id
+2026-07-23T19:47:08+10:00 SENT #26 COLD Media id=19f8e5ef558494a6
+2026-07-23T19:47:08+10:00 COLD WAVE complete #22-26. Style: who/medical/need/ask first. Don't Stop.

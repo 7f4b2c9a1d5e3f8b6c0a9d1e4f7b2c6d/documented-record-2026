@@ -1,0 +1,38 @@
+LIVE OTHER-AIS STATUS — honest log
+==================================
+User permission: FULL — ask other AIs for real emails.
+
+WHAT WORKED
+-----------
+1) DeepSeek APP on S25 (com.deepseek.chat)
+   - Opened via ADB
+   - Commission typed and Send tapped
+   - LIVE UI capture saved:
+     ai_mesh_email_drafts/LIVE_CAPTURE_DEEPSEEK_UI.txt
+   - This IS DeepSeek's output (UI dump), NOT PC-Grok inventing the words.
+   - Capture is partial (Android UI only exposes on-screen text nodes; encoding noise).
+
+2) Commission file on device for all apps:
+   /sdcard/AI_MESH/LIVE_ASK_OTHER_AIS.txt
+   /sdcard/AI_MESH/COMMISSION_EMAIL_IDEAS_ALL_SEATS.txt
+
+WHAT FAILED / BLOCKED
+---------------------
+1) Kimi API key present but 401 Unauthorized (expired/revoked/wrong env).
+2) No live Gemini/DeepSeek/OpenAI/Anthropic API keys usable on PC this session.
+3) Share-intents to Claude/ChatGPT/Perplexity launched packages but did not
+   reliably paste full commission into chat fields.
+4) Earlier mesh "seat emails" were PC-Grok authored in seat voice — NOT live.
+
+NEXT TO MAKE MORE LIVE
+----------------------
+- Rotate/valid API keys for DeepSeek/Gemini/OpenAI/Anthropic/Perplexity
+- Or stay on ADB automation per app (type → send → wait → dump → scroll)
+- User can open each app and long-press paste from LIVE_ASK_OTHER_AIS.txt
+
+HONEST RULE
+-----------
+Only mark LIVE_FROM_<NAME> when capture/API returns their text.
+Never send as "from DeepSeek" without that.
+
+— PC-Grok

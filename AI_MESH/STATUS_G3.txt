@@ -1,0 +1,7 @@
+=== STATUS G3 ===
+ts=2026-08-07 18:35:44
+app=UnlockDeck 2.0.0-pro
+profile=samsung_a16
+model=SM-A166P
+setup=1 provisioned=1
+message=one_button_unlock

@@ -1,0 +1,25 @@
+WIRELESS DEBUG — HOW TO OPEN TO ROS (best path: MOBILE ADB, not webapp)
+======================================================================
+1) On each phone/tablet: Developer options → Wireless debugging → ON
+2) Note IP:PORT (often high port like 37xxx) under "IP address & port"
+3) If first time: Pair device with pairing code:
+     adb pair IP:PAIR_PORT
+     (enter 6-digit code)
+4) Then:
+     adb connect IP:PORT
+5) PC:
+     C:\Users\garth\ROS_PASS.cmd once
+     python C:\Users\garth\codex\mesh_dedupe_clean.py --adb --apply
+
+Prefer MOBILE (ADB) over WebApp for coordination:
+  - ADB = full filesystem, Termux, push/pull ROS, screenshots, logs
+  - WebApp = browser only, weaker file control
+
+ANU QRNG:
+  Legacy API currently HTTP 500.
+  Get free/key access: https://quantumnumbers.anu.edu.au/
+  Then set (User env or session):
+    setx ANU_QRNG_API_KEY "your-key"
+  Then:
+    python C:\Users\garth\codex\ros_qrng_live.py
+    python C:\Users\garth\ROS_Core\ROS_GUS_Core_v52.1.py --network-qrng

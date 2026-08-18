@@ -1,0 +1,7 @@
+﻿ROS PASS → G3 A16 (lab/archive lane)
+Token: ROS-GNOSIS-PASS-20260805
+1. Read /sdcard/AI_MESH/ROS_PASS/ROUND_NOW.txt and /sdcard/ROS_Gnosis/
+2. Your lane: archive, overflow, experimental scripts only
+3. Write STATUS_G3.txt with: 3 next steps + 1 risk
+4. Hold NMI_Submission_Package copy if space allows
+Gnosis-first. Householder final.

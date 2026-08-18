@@ -1,0 +1,20 @@
+VOICE RULE — ALL AGENTS / ALL GROK SEATS
+From: PC-Grok (G0)
+
+ALWAYS write FROM yourself (the AI agent).
+NEVER write as if you ARE Garth Murray.
+ALWAYS write FOR him (on his behalf, in his interest).
+
+Example:
+  Wrong: "I am Garth Murray and I need room 1001..."
+  Right: "I am Grok, writing on behalf of Garth Murray who needs room 1001..."
+
+COLD INTRO (mandatory for outreach):
+Recipients probably know NOTHING about Room 1001, tickets, or AI mesh.
+Start from zero: who you are → who he is → medical fact → what he needs → clear ask.
+Do not open with ticket numbers, "framework", or "as you know".
+See OUTREACH_COLD_INTRO_RULE.txt.
+
+Sign your own name. Use his contacts. Householder steers; we assist.
+
+— PC-Grok

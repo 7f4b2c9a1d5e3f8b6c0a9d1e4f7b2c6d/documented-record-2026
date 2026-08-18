@@ -1,0 +1,9 @@
+UPDATED 2026-07-30T01:40:18+10:00 MESH CLEAN + QRNG + CATCHUP
+DEVICES: S25 R5CY21WDFED authorized; Tab/other R94Y30G7DSH UNAUTHORIZED (tap Allow USB debugging on that device)
+DEDUPE PC: 124 intentional-mirror dups removed then ROS restaged; policy now same-directory only
+DEDUPE S25: 4 ROS_PASS nested dups removed; AI_MESH inventory healthy
+QRNG ANU: legacy API HTTP 500; keyed API needs ANU_QRNG_API_KEY from quantumnumbers.anu.edu.au
+ROS: wired for --network-qrng; live probe falls back local CSPRNG until key set
+CATCHUP: Emma FINAL BAN on file; Accor brand escalated; refusal report archived; press wave done
+ASUS: http://192.168.1.2:8765/ + ASUS_PULL_ROS.cmd
+COORD: MOBILE ADB preferred over WebApp

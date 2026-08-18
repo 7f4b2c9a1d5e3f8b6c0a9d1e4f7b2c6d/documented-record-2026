@@ -1,0 +1,18 @@
+{
+  "lead": "G1",
+  "holder": "G1",
+  "mission": "ROOM1001",
+  "updated": "2026-08-13T17:20:08.586",
+  "updated_by": "G1",
+  "note": "claimed by FieldDeck",
+  "ros_hint": "v58.0",
+  "mission_token": "ROOM1001",
+  "ts": "2026-08-13T17:20:08.586",
+  "roles": {
+    "G0": "merge",
+    "G1": "field",
+    "G2": "docs",
+    "G3": "archive"
+  },
+  "schema": "fielddeck.baton.v1"
+}

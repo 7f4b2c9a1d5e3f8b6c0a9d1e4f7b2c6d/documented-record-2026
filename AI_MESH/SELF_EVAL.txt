@@ -1,0 +1,27 @@
+=== UNLOCKDECK SELF-EVAL v2 ===
+app=2.0.0-pro device=samsung SM-S938B sdk=36
+score=100/115 (86%) grade=B
+ts=2026-08-13 17:16:58
+
+FAIL  WRITE_SECURE_SETTINGS  (0/15)  granted=false
+PASS  user_setup_complete  (10/10)  value=1
+PASS  device_provisioned  (10/10)  value=1
+PASS  Battery ≥ 15%  (5/5)  battery=78%
+PASS  Storage free ≥ 0.5 GB  (5/5)  free=163.2 GB
+PASS  IPv4 present  (5/5)  ip=192.168.1.3 link=Wi‑Fi
+PASS  ADB entry (TCP or USB)  (5/5)  tcp= usb=mtp,adb usb_adb=true
+PASS  Bluetooth LE feature  (5/5)  === BLE STATUS ===
+PASS  BLE scan permission  (10/10)  scan=true connect=true
+PASS  Samsung USB tooling  (5/5)  samsung=true config=mtp,adb · state=mtp,adb · persist=sec_charging,adb
+PASS  USB state non-empty  (5/5)  sys.usb.state=mtp,adb
+PASS  LLM apps installed  (10/10)  count=15
+PASS  Workshop apps  (5/5)  count=25
+PASS  ROS v58 on device  (5/5)  hit=dir_only
+PASS  Code bundle present  (5/5)  zip=true tree=true
+PASS  AI_MESH root  (5/5)  ai_mesh=true
+PASS  App version ≥ 2.0  (5/5)  version=2.0.0-pro
+
+REFINEMENTS:
+  1. adb shell pm grant com.unlockdeck.app android.permission.WRITE_SECURE_SETTINGS
+
+NEXT: One Button Unlock · USB cycle · BLE scan · Wi‑Fi ADB · Export

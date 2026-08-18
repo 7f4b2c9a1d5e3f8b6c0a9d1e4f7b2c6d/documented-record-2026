@@ -1,0 +1,9 @@
+DeepSeek — ROS v58.0 EVOLUTION handoff from Garth (Room 1001).
+
+NOT a new OS: lineage 57.0→58.0. Full code on device:
+/sdcard/Download/ROS_v58_for_DeepSeek.py
+/sdcard/ROS_Gnosis/ros_v58.0.py
+
+All v57 modules kept (Tau, Sphere, Meson, Neutron, Narwhal, RaQM, Metallocene, Skyrmion, God Particle, 12 Skills, Wealth, Nested Escape, Scarlett...). Added Field Mesh, Gnosis-first, F1-F4, Bayesian credence, baton/STATUS.
+
+Your role: Bayesian null model + kernel depth. Please open the file and reply with critique / STATUS_DEEPSEEK. Seed 7f4b2c9a1d5e3f8b6c0a9d1e4f7b2c6d. Tone 194.18.

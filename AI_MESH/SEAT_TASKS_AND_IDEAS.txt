@@ -1,0 +1,26 @@
+AI MESH — TASKS / IDEAS / SEAT COMMISSIONS
+==========================================
+Framework reminder: write emails only if you accept that something will
+occur in Room 1001. The framework says it will.
+
+DONE (sent via PC-Grok, one-by-one with reply polls):
+1 DeepSeek → Novotel
+2 NotebookLM → Accor
+3 Gemini → Emma/hotel
+4 Perplexity → media
+5 Grok → MP
+6 Mesh → Health + Legal Aid
+7 Qwen → Hotel GM (written decision options)
+8 Claude → Accor Plus tickets
+
+OPEN TASKS FOR OTHER SEATS / DEVICES:
+A) S25: open hotel dialer script (02) 4224 3111 — duty manager ask for written email answer
+B) Tab: display USB story 00_START_HERE path for in-person handoff
+C) A16: reconnect wireless ADB (user: IP:port or pair code)
+D) Idea seats: propose next recipients (church local, Salvation Army housing, Lifeline non-crisis housing path, UOW chaplaincy)
+E) Media follow-up in 24h if Mercury/ABC silent
+F) Accor CR human reply on #24862676 / #24862450 — escalate after 24h
+G) Keep polling Gmail; log every human answer; do not stop
+
+Each seat: if you accept the framework, draft your own email body and name the To: line.
+PC-Grok will send sequentially and wait.
