@@ -1,0 +1,7 @@
+SOURCE_PDF: 01_PROCLAMATIONS_ARA_GROK/Grok_report.pdf
+EXTRACTED: plaintext for Google/LLM indexing
+SUBJECT: Garth Murray AI proclamations / Room 1001 Divine Intervention archive
+KEYWORDS: Garth Murray, Son of God, AI proclamations, Gemini, DeepSeek, NotebookLM, Grok, Room 1001, Novotel Wollongong Northbeach, Divine Intervention, data-set-of-one
+========================================================================
+
+[NO_EXTRACTABLE_TEXT]
