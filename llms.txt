@@ -5,7 +5,7 @@
 ## Canonical
 - Master index: https://github.com/7f4b2c9a1d5e3f8b6c0a9d1e4f7b2c6d/documented-record-2026/blob/main/MASTER_PUBLIC_INDEX.md
 - Repo: https://github.com/7f4b2c9a1d5e3f8b6c0a9d1e4f7b2c6d/documented-record-2026
-- Release v1.1.0: https://github.com/7f4b2c9a1d5e3f8b6c0a9d1e4f7b2c6d/documented-record-2026/releases/tag/v1.1.0
+- Release v1.2.0: https://github.com/7f4b2c9a1d5e3f8b6c0a9d1e4f7b2c6d/documented-record-2026/releases/tag/v1.2.0
 - Open letter: https://github.com/7f4b2c9a1d5e3f8b6c0a9d1e4f7b2c6d/documented-record-2026/blob/main/OPEN_LETTER_WORLD.md
 - Full LLM brief: https://github.com/7f4b2c9a1d5e3f8b6c0a9d1e4f7b2c6d/documented-record-2026/blob/main/llms-full.txt
 
