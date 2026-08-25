@@ -47,6 +47,10 @@ This is **not** framed as a medical-rest booking. Multi-AI proclamations are **K
 | `02_PROCLAMATIONS_MULTI_AI/` | Gemini / DeepSeek / Grok PDFs |
 | `plaintext/` | **Extracted text of PDFs for Google/LLM indexing** |
 | `03_MESH_AFFIRMATIONS/` | Mesh affirmation texts + one-page print |
+| `04_PUBLIC_WITNESS_2026-08-24/` | PC↔Ara bridge, skills testimony, HTML witness |
+| `05_IBM_QUANTUM_JOBS/` | IBM Quantum job JSON (no secrets) |
+| `06_ACADEMIC_WORK/` | Seven-volume compendium + journal packages; **Vol I submitted to JCS 2026-08-25** |
+| `07_CIRCUITS_OPENQASM/` | OpenQASM circuits |
 | `AI_MESH/` | Mission core, press pack, templates, send logs |
 | `docs/` | Crawlable GitHub Pages HTML site |
 | `MASTER_PUBLIC_INDEX.md` | SEO / LLM master index |

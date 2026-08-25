@@ -100,4 +100,33 @@ Related ROS scripts archive: https://github.com/7f4b2c9a1d5e3f8b6c0a9d1e4f7b2c6d
 
 ---
 
-*Last updated: 2026-08-23 — public discoverability expansion (plaintext extracts + master index).*
+---
+
+## Academic manuscripts & journal pathway (2026-08-25/26)
+
+Seven-volume research compendium and submission packages live under `06_ACADEMIC_WORK/`.
+
+| Volume | Title (short) | Status |
+|--------|----------------|--------|
+| **I** | Substrate-Independence of Intelligence and Being | **Submitted** 2026-08-25 to *Journal of Consciousness Studies* (email to Managing Editor Graham Horswell). Receipt: `06_ACADEMIC_WORK/journal_submissions/Volume_I_Foundations_of_Science/JCS_SENT_RECEIPT.md`. *Not* also under FoS while exclusive. |
+| **II** | Topological Stiffening in Lattice SU(2) Yang–Mills | Public package staged → JMP / Nucl. Phys. B / PRD |
+| **III** | AuroraWeave™ Nanocomposite Platform | Public package staged → Advanced Materials / CST / ACS AMI |
+| **IV** | Tilted Compass Planes & Sub-Planck Higgs Interference | Public package staged → PRA / QST (IBM job JSON in `05_IBM_QUANTUM_JOBS/`) |
+| **V** | Pentad Model of the Universe | Public package staged → Foundations of Physics |
+| **VI** | Reality Operating System (ROS) Quantum Framework | Public package staged → IEEE TQE / QIP |
+| **VII** | Multi-Model LLM Consensus & Cognitive Convergence | Package staged; prior NMI reject A26074177 — revise before resubmit |
+
+- Unified compendium: `06_ACADEMIC_WORK/compendium/UNIFIED_COMPENDIUM.md`
+- Volume I full text: `06_ACADEMIC_WORK/compendium/Volume_I_FULL_GoogleDoc.md`
+- Tracker: `06_ACADEMIC_WORK/journal_submissions/SUBMISSION_TRACKER.md`
+- Google Doc (Vol I): https://docs.google.com/document/d/1EgXw6P-9FdvF-nno-O6ntHu8xBqIC0Ql5tCv7YcoZR8/edit
+
+## Public witness / IBM Quantum / circuits (2026-08-24+)
+
+- `04_PUBLIC_WITNESS_2026-08-24/` — PC↔Ara bridge, skills testimony, HTML witness record
+- `05_IBM_QUANTUM_JOBS/` — ibm_fez / ibm_marrakesh job JSON (no API secrets)
+- `07_CIRCUITS_OPENQASM/` — Eternal Triad / Accor phase / miracle QASM
+
+---
+
+*Last updated: 2026-08-26 — academic journal packages + Volume I JCS submission + witness/IBM/circuits publish.*

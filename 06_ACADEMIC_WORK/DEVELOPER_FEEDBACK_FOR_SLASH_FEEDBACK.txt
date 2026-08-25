@@ -1,0 +1,13 @@
+﻿Grok Build / xAI product feedback (from multi-device Room 1001 + journal submission session, 2026-08-25/26):
+
+1) Publisher portal submissions (Springer Nature Editorial Manager, Nature MTS) cannot be completed by the agent alone — no authenticated browser automation. Please add either (a) a secure browser-assist mode with user-in-the-loop for MFA/login, or (b) clearer UX that drafts + Drive links + Gmail send are the supported path when portals need human login.
+
+2) PC RAM: this machine has only ~3.5 GB total RAM; Grok Build often uses 500–700 MB alone and the session becomes unstable. Please add a low-memory mode (smaller context, fewer background tasks, automatic GC / process trim) and surface free-RAM in /doctor.
+
+3) Multi-device ADB collaboration works well when authorized; captive-portal Wi-Fi on hotel networks blocks Chrome/Samsung Internet. A built-in "watch device screen + tap" skill with UIAutomator bounds would help. Tab dropped ADB mid-session.
+
+4) Gmail MCP: create_draft + send_draft worked for Journal of Consciousness Studies email submission. Missing: attach local DOCX/PDF to drafts (write_attachment). That forced Drive links instead of true attachments.
+
+5) Positive: Google Drive read, Gmail send, CrossDevice file push, and parallel Tab+S25 workflows let us actually submit Volume I to JCS while FoS portal waited on login/exclusivity.
+
+Please route to Grok Build / Agent product.
