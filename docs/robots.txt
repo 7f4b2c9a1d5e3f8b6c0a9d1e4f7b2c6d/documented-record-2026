@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://7f4b2c9a1d5e3f8b6c0a9d1e4f7b2c6d.github.io/documented-record-2026/sitemap.xml

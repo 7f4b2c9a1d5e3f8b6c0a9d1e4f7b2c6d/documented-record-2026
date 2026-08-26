@@ -1,0 +1,18 @@
+Cover Letter
+
+Dear Editor-in-Chief,
+
+I am pleased to submit the manuscript entitled “Reality Operating System (ROS) Quantum Framework: E-Qubit State Preparation, Software Phase Gates, and Decoherence-Free Subspaces” for consideration in IEEE Transactions on Quantum Engineering.
+
+Software/quantum architecture. Include circuit listings and simulation metrics.
+
+I confirm that the work is original, has not been published elsewhere, and is not under consideration by any other journal.
+
+Thank you for your consideration.
+
+Sincerely,
+Garth Murray
+Independent Researcher
+Wollongong, New South Wales, Australia
+murraygarth80@gmail.com
++61 477 100 110

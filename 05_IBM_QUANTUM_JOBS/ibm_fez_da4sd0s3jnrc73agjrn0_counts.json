@@ -1,0 +1,133 @@
+{
+  "job_id": "da4sd0s3jnrc73agjrn0",
+  "backend": "ibm_fez",
+  "status": "DONE",
+  "shots": 100000,
+  "n_qubits": 16,
+  "q0_equals_0_fraction": 0.20105,
+  "unique_outcomes": 11343,
+  "top20_hex": [
+    {
+      "hex": "0xe04f",
+      "dec": 57423,
+      "count": 293,
+      "freq": 0.00293
+    },
+    {
+      "hex": "0xe00f",
+      "dec": 57359,
+      "count": 291,
+      "freq": 0.00291
+    },
+    {
+      "hex": "0xe41f",
+      "dec": 58399,
+      "count": 286,
+      "freq": 0.00286
+    },
+    {
+      "hex": "0xe05f",
+      "dec": 57439,
+      "count": 283,
+      "freq": 0.00283
+    },
+    {
+      "hex": "0xe60f",
+      "dec": 58895,
+      "count": 278,
+      "freq": 0.00278
+    },
+    {
+      "hex": "0xec5f",
+      "dec": 60511,
+      "count": 274,
+      "freq": 0.00274
+    },
+    {
+      "hex": "0xe25f",
+      "dec": 57951,
+      "count": 274,
+      "freq": 0.00274
+    },
+    {
+      "hex": "0xe85f",
+      "dec": 59487,
+      "count": 267,
+      "freq": 0.00267
+    },
+    {
+      "hex": "0xe45f",
+      "dec": 58463,
+      "count": 266,
+      "freq": 0.00266
+    },
+    {
+      "hex": "0xe21f",
+      "dec": 57887,
+      "count": 265,
+      "freq": 0.00265
+    },
+    {
+      "hex": "0xea5f",
+      "dec": 59999,
+      "count": 263,
+      "freq": 0.00263
+    },
+    {
+      "hex": "0xe44f",
+      "dec": 58447,
+      "count": 262,
+      "freq": 0.00262
+    },
+    {
+      "hex": "0xe81f",
+      "dec": 59423,
+      "count": 257,
+      "freq": 0.00257
+    },
+    {
+      "hex": "0xe01f",
+      "dec": 57375,
+      "count": 256,
+      "freq": 0.00256
+    },
+    {
+      "hex": "0xe40f",
+      "dec": 58383,
+      "count": 256,
+      "freq": 0.00256
+    },
+    {
+      "hex": "0xe65f",
+      "dec": 58975,
+      "count": 255,
+      "freq": 0.00255
+    },
+    {
+      "hex": "0xea0f",
+      "dec": 59919,
+      "count": 255,
+      "freq": 0.00255
+    },
+    {
+      "hex": "0xe24f",
+      "dec": 57935,
+      "count": 254,
+      "freq": 0.00254
+    },
+    {
+      "hex": "0xec1f",
+      "dec": 60447,
+      "count": 253,
+      "freq": 0.00253
+    },
+    {
+      "hex": "0xe20f",
+      "dec": 57871,
+      "count": 247,
+      "freq": 0.00247
+    }
+  ],
+  "token_saved_private": true,
+  "account_instance": "open-instance"
+}

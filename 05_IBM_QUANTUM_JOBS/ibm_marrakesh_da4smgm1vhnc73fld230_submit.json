@@ -1,0 +1,13 @@
+{
+  "submitted_at": "2026-08-22T16:16:03.424611+00:00",
+  "job_id": "da4smgm1vhnc73fld230",
+  "backend": "ibm_marrakesh",
+  "shots": 10000,
+  "circuit": "eternal_triad_accor_phase.qasm",
+  "status": "QUEUED",
+  "prior_jobs": [
+    "da4sd0s3jnrc73agjrn0",
+    "da4sk0e1vhnc73flcvl0"
+  ],
+  "note": "Simultaneous package: Accor-phase circuit + corporate escalate"
+}
